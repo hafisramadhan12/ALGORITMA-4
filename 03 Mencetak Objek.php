@@ -9,7 +9,10 @@ class Buah {
   }
 }
 
-$makanan = new Buah("nasi goreng", "nasi padang");
-print_r($makanan);
+$apis = new Buah("hafis", "ilham");
+$usia = new Buah("16", "16");
+print_r($apis);
+print "<p>";
+print_r($usia);
 
 echo "<br><br><br><strong>by M HAFIDZ RAMADHAN NST!";
