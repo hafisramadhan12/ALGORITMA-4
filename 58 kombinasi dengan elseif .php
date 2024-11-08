@@ -9,4 +9,4 @@ if ($suhu < 20) {
     echo "Cuaca panas.";
 }
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

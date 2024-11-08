@@ -7,6 +7,6 @@ var_dump($variabel_string);
 var_dump($variabel_integer);
 var_dump($variabel_array);
 
-echo "<br><br><br><strong>by M HAFIDZ RAMADHAN NST!";
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";
 ?>
 

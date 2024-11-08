@@ -8,4 +8,4 @@ if ($nilai) {
 }
 // Keluaran akan "Variabel ini bernilai false" karena nilai 0 dianggap false.
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

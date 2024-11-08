@@ -24,3 +24,4 @@ if ($error) {
     die("Skrip dihentikan karena error.");
 }
 
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";

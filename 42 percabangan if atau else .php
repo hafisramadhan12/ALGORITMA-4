@@ -8,6 +8,6 @@ if ($umur < 18 ){
     echo "Selamat datang di website kami!";
 }
 
-echo "<br><br><br><strong>by M HAFIDZ RAMADHAN NST!";
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";
 
 ?>

@@ -3,4 +3,4 @@ $text = "Hello World!";
 echo substr($text, 0, 5); // Outputs: "Hello"
 echo substr($text, 6); // Outputs: "World!"
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i> M HAFIDZ RAMADHAN NST!</strong>");

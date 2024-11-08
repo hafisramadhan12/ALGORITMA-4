@@ -9,4 +9,6 @@ $mobil_baru->merk = "<br>aceh";
 $mobil_baru->model = "<br>padang";
 
 var_dump($mobil_baru);
+
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";
 ?>

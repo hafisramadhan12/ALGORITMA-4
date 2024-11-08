@@ -18,3 +18,5 @@ $array = array(
 var_dump($array);
 
 print "<p>";
+
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";

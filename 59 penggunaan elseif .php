@@ -11,4 +11,4 @@ if ($usia < 13) {
     echo "Kamu adalah dewasa.";
 }
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");

@@ -7,4 +7,4 @@ if ($nilai >= 90) {
 } else {
   echo "Nilai kamu C";
 }
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i> M HAFIDZ RAMADHAN NST!</strong>");

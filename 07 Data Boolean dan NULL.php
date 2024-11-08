@@ -9,5 +9,5 @@ var_dump($var_boolean2);
 print "<p>";
 var_dump($var_null);
 
-echo "<br><br><br><strong>by M HAFIDZ RAMADHAN NST!";
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";
 ?>

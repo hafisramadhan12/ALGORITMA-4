@@ -4,4 +4,4 @@ $b = 3;
 $hasil = $a ** $b; // Hasilnya adalah 8 (2 pangkat 3)
 echo "hasil = $hasil";
 
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";

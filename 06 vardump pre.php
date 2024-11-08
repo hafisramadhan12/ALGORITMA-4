@@ -5,5 +5,5 @@ var_dump($variabel_array);
 echo "</pre>";
 
 
-echo "<br><br><br><strong>by M HAFIDZ RAMADHAN NST!";
+echo "<br><br><br><strong> M HAFIDZ RAMADHAN NST!";
 ?>

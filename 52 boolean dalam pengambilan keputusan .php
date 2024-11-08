@@ -6,4 +6,4 @@ if ($login_sukses) {
 } else {
     echo "Login gagal, silakan coba lagi.";
 }
-print_r("<p><strong><i>By M HAFIDZ RAMADHAN NST!</strong>");
+print_r("<p><strong><i>M HAFIDZ RAMADHAN NST!</strong>");
